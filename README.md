@@ -2,7 +2,7 @@
 
 Welcome to my **Personal Developer Portfolio** built using HTML, CSS, JavaScript, and Bootstrap. This site highlights my key projects, technical skills, internships, and contact details. It also includes work in Machine Learning, Web Development, and Unity XR.
 
-🔗 **Live Site:** [https://sarthakpatil77.github.io/Sarthak-Portfolio/](https://sarthakpatil77.github.io/Sarthak-Portfolio/)
+🔗 **Live Site:** [https://sarthak-portfolio-omega.vercel.app/)
 
 ---
 
